@@ -94,6 +94,11 @@ The setup was validated by:
 
 ---
 
+## Video Demonstration
+▶️[Watch the Azure JumpServer Lab Demo](https://youtu.be/7nnGzC08V44)
+
+---
+
 ## Key Learnings
 - Understanding secure jump-host architecture
 - Azure networking fundamentals
